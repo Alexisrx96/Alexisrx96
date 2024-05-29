@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">I'm a passionate learner who loves challenges and coffee. I've worked as a backend developer, a machine learning engineer, and a system analyst. Most of my projects are personal and tailored to my own needs.</h2>
+<h2 align="left">I'm a passionate learner who loves challenges and coffee. I've worked as a backend developer, a machine learning engineer (just a couple of months), and a system analyst. Most of my projects are personal and tailored to my own needs.</h2>
 
 ###
 
